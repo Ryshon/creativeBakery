@@ -1,4 +1,3 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Creative Bakery landing page
+Bakerlab serves as the ideal landing page for aspiring coffee shops or bakeries seeking to attract new customers and gain additional advertising exposure.
+Using HTML, BEM and SCSS
